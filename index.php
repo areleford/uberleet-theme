@@ -1,4 +1,6 @@
-<?php get_header(); ?>
+<?php 
+define('PAGE_TITLE', 'Page Title');
+get_header(); ?>
 
 <div class="container" data-padding="1">
     <div class="row">
