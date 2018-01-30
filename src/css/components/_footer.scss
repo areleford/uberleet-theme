@@ -1,0 +1,22 @@
+footer {
+    background-color: $theme-color-1;
+    color: $white;
+
+    h3 {
+        color: $theme-color-4;
+        text-transform: uppercase;
+    }
+
+    .social-icons {
+        margin-bottom: 10px;
+    }
+}
+
+.copyright {
+    background-color: $theme-color-3;
+
+    p {
+        font-weight: bold;
+        color: $theme-color-2;
+    }
+}
